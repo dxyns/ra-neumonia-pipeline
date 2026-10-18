@@ -1,0 +1,56 @@
+DATOS DEL CASO (ANEXO - INFOGRAFIA DESGLOSABLE)
+Infecciones Respiratorias Agudas (IRA) y Neumonia en Menores de 5 Anos en el Peru
+Fuente citada en la infografia: Ministerio de Salud (MINSA).
+
+1. HECHOS CLAVE
+- Episodios de IRA en menores de 5 anos: 2023 = 1 003 178; 2024 = 883 959; 2025 = 824 978
+- Variacion: -7% (2025 vs 2024); -18% (2025 vs 2023)
+- Poblaciones objetivo: ninos menores de 5 anos, adultos mayores, poblaciones vulnerables
+
+2. ACTORES INVOLUCRADOS
+- Ministerio de Salud (MINSA)
+- Centro Nacional de Epidemiologia, Prevencion y Control de Enfermedades (CDC Peru)
+- Direcciones Regionales de Salud
+- Gerencias Regionales de Salud
+
+3. INTERVENCIONES Y MEDIDAS REPORTADAS
+- Vacunacion contra neumococo
+- Vacunacion contra influenza
+- Lavado de manos
+- Uso de mascarilla ante sintomas
+- Ventilacion de ambientes
+- Atencion oportuna en centros de salud
+- Campana "Abrigamos vidas" para reforzar las medidas preventivas
+
+4. RECURSOS DISPONIBLES REPORTADOS
+- Vacunas contra neumococo: 2 226 142 dosis disponibles
+- Vacunas contra influenza: 8.2 millones de dosis (2.2 millones pediatricas, 6 millones adultos)
+- Otros recursos: medicamentos, insumos, stock de contingencia, reabastecimiento regional
+
+5. RESULTADOS OBSERVADOS
+- Defunciones por neumonia en menores de 5 anos: 2023 = 113; 2024 = 82; 2025 = 51
+- Tendencia: menos episodios de IRA y menos muertes por neumonia
+
+6. VARIABLES OBSERVADAS EN LA NOTICIA
+- Numero de episodios de IRA
+- Numero de defunciones por neumonia
+- Ano de observacion (2023, 2024, 2025)
+- Disponibilidad de vacunas
+- Campanas preventivas
+- Recursos sanitarios disponibles
+- Poblaciones objetivo mencionadas
+
+ASPECTOS NO REPORTADOS EN LA NOTICIA
+- Cobertura real de vacunacion
+- Distribucion regional de casos
+- Distribucion regional de fallecimientos
+- Costos de las intervenciones
+- Impacto individual de cada medida
+- Factores climaticos
+- Factores socioeconomicos
+- Relacion causal demostrada
+
+MENSAJE CLAVE DE LA INFOGRAFIA
+La noticia muestra una tendencia favorable, pero no proporciona toda la informacion necesaria para evaluar el
+impacto de cada medida o definir prioridades. Una IA responsable debe diferenciar entre hechos observados y
+aspectos aun desconocidos.
