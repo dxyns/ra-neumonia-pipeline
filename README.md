@@ -99,7 +99,3 @@ BFS minimiza el número de intervenciones, no el costo. UCS y A\* encuentran el 
 | `01_Pipeline_Razonamiento_Busqueda.ipynb` | Problema → Espacio de Estados → Exploración → Búsqueda → Resultado | Pipeline Razonamiento, Búsqueda y Resultados |
 | `02_Pipeline_Modelo_Prediccion.ipynb` | Datos sintéticos → regresión → gráfico interpretativo | Pipeline Modelo de Predicción y Visualización |
 
-### Cómo ejecutar
-
-1. Abre cada `.ipynb` en [Google Colab](https://colab.research.google.com) (`Archivo → Abrir cuaderno → GitHub`, pegando la URL del repositorio).
-2. Ejecuta todas las celdas en orden. No se necesitan archivos externos: los datos se generan dentro del notebook.
